@@ -1,0 +1,132 @@
+[
+  {
+    "file": "synthetic_two_columns.jpg",
+    "status": "ok",
+    "seconds": 8.91,
+    "page": {
+      "version": 1,
+      "pageId": "synthetic_two_columns",
+      "imageHash": "f92b14450424c21ddcd07c7078f9853310510f155067c68cdf27f38515ce7662",
+      "width": 1040,
+      "height": 1440,
+      "coordinateSpace": "uploaded-image",
+      "blocks": [
+        {
+          "id": "b1",
+          "ordinal": 1,
+          "printedNumber": "1",
+          "bbox": {
+            "x": 0,
+            "y": 104,
+            "width": 537,
+            "height": 618
+          },
+          "questionText": "1.如图所示,求下列问题。\n(1)计算物体运动的速度。\n(2)说明判断的依据。",
+          "options": [
+            "A.12B.23C.13"
+          ],
+          "studentAnswer": "",
+          "subject": "",
+          "questionType": "选择题",
+          "unreadableParts": [
+            "本地转写待补齐：本地文字置信度不足，需云端核对",
+            "本地转写待补齐：图形或表格条件需云端核对",
+            "本地转写待补齐：数学或科学符号需云端核对",
+            "本地转写待补齐：本地仅可确认完整四选项文字题，其他题型需云端核对"
+          ],
+          "hasFigure": true
+        },
+        {
+          "id": "b2",
+          "ordinal": 2,
+          "printedNumber": "2",
+          "bbox": {
+            "x": 0,
+            "y": 722,
+            "width": 537,
+            "height": 718
+          },
+          "questionText": "2.如图所示,求下列问题。\n(1)计算物体运动的速度。\n(2)说明判断的依据。",
+          "options": [
+            "A.12B.23C.13"
+          ],
+          "studentAnswer": "",
+          "subject": "",
+          "questionType": "选择题",
+          "unreadableParts": [
+            "本地转写待补齐：本地文字置信度不足，需云端核对",
+            "本地转写待补齐：图形或表格条件需云端核对",
+            "本地转写待补齐：数学或科学符号需云端核对",
+            "本地转写待补齐：本地仅可确认完整四选项文字题，其他题型需云端核对"
+          ],
+          "hasFigure": true
+        },
+        {
+          "id": "b3",
+          "ordinal": 3,
+          "printedNumber": "3",
+          "bbox": {
+            "x": 537,
+            "y": 104,
+            "width": 503,
+            "height": 619
+          },
+          "questionText": "3.如图所示,求下列问题。\n(1)计算物体运动的速度。\n(2)说明判断的依据。",
+          "options": [
+            "A.12B.23C.13"
+          ],
+          "studentAnswer": "",
+          "subject": "",
+          "questionType": "选择题",
+          "unreadableParts": [
+            "本地转写待补齐：图形或表格条件需云端核对",
+            "本地转写待补齐：数学或科学符号需云端核对",
+            "本地转写待补齐：本地仅可确认完整四选项文字题，其他题型需云端核对"
+          ],
+          "hasFigure": true
+        },
+        {
+          "id": "b4",
+          "ordinal": 4,
+          "printedNumber": "4",
+          "bbox": {
+            "x": 537,
+            "y": 723,
+            "width": 503,
+            "height": 717
+          },
+          "questionText": "4.如图所示,求下列问题。\n(1)计算物体运动的速度。\n(2)说明判断的依据。",
+          "options": [
+            "A.12B.23C.13"
+          ],
+          "studentAnswer": "",
+          "subject": "",
+          "questionType": "选择题",
+          "unreadableParts": [
+            "本地转写待补齐：图形或表格条件需云端核对",
+            "本地转写待补齐：数学或科学符号需云端核对",
+            "本地转写待补齐：本地仅可确认完整四选项文字题，其他题型需云端核对"
+          ],
+          "hasFigure": true
+        }
+      ]
+    }
+  },
+  {
+    "file": "synthetic_continuation.jpg",
+    "status": "manual_required",
+    "seconds": 2.53,
+    "page": {
+      "version": 1,
+      "pageId": "synthetic_continuation",
+      "imageHash": "113d3f4c436fef5726f94ac185672aceec84b8cdb9f60e0d4a81a646269efe7a",
+      "width": 800,
+      "height": 900,
+      "coordinateSpace": "uploaded-image",
+      "blocks": [],
+      "warnings": [
+        "未识别到可靠题框，请核对图片方向和清晰度，重新拍照或手动框选"
+      ]
+    }
+  }
+]

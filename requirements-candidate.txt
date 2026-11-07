@@ -1,0 +1,5 @@
+# Separate candidate runtime, not an in-place production upgrade.
+-r requirements.txt
+rapid-layout==1.2.1
+rapid-table==3.0.2
+rapidocr==3.10.0

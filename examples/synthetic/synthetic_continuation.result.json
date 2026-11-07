@@ -1,0 +1,17 @@
+{
+  "file": "synthetic_continuation.jpg",
+  "status": "manual_required",
+  "seconds": 2.53,
+  "page": {
+    "version": 1,
+    "pageId": "synthetic_continuation",
+    "imageHash": "113d3f4c436fef5726f94ac185672aceec84b8cdb9f60e0d4a81a646269efe7a",
+    "width": 800,
+    "height": 900,
+    "coordinateSpace": "uploaded-image",
+    "blocks": [],
+    "warnings": [
+      "未识别到可靠题框，请核对图片方向和清晰度，重新拍照或手动框选"
+    ]
+  }
+}

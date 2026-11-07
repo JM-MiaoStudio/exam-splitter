@@ -1,0 +1,4 @@
+# Optional CPU runtime only. Install alongside the existing worker requirements.
+# Keep package-bundled PP-OCRv4 models; hashes are checked by openvino_v4.py.
+rapidocr-onnxruntime==1.4.4
+openvino==2026.4.1
